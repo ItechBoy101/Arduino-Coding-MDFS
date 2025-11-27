@@ -1,8 +1,9 @@
 # Mechanical Design Fundamental Studio 1
+# Warman Design & Build Challenge
 # Arduino-Coding
 # Arduino Mega 2560 as our MicroController
 
-1. Chassis used L298N driver motors, 4 DC motors and Omni Wheels.
+1. Chassis used 2xL298N driver motors, 4 DC motors and 4 Omni Wheels.
 
 2. Collection System uses 2xDRV8825 with expansion boards, 2 NEMA (17 or 23) Stepper Motors(each motor needs a 1.6A as minimum current to be used)
    2.1. Stepper motor driver needs two power sources (1x5V supply & minimum of 12V for the motor)
